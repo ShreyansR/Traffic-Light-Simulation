@@ -6,4 +6,4 @@ It included the traffic light system for an intersection, advanced green and ped
 
 Below is a picture of the prototype:
 
-![](prototype.JPG?raw=true)
+![](prototype.jpg?raw=true)
